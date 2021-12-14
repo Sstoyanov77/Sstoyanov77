@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning ...HTML and CSS
 - 💞️ I’m looking to collaborate on ...Anything since I am a beginner to coding 
 - 📫 How to reach me ...simonstoyanov10@gmail.com
-
+- Chicago,IL
 
